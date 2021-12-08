@@ -1,3 +1,5 @@
 nous apprenons actuellement a utiliser git et ses commandes sur visual studio code 
 
 cette aplication va nous permettre d'apprendre a utiliser github et les commandes git 
+
+Flo la best
